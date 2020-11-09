@@ -7835,3 +7835,15 @@ td.hljs-ln-numbers {
 @media(max-width:1200px) {
     .toc {display: none;}
 }
+
+/*代码雨效果*/
+canvas {
+  position: fixed;
+  right: 0px;
+  bottom: 0px;
+  min-width: 100%;
+  min-height: 100%;
+  height: auto;
+  width: auto;
+  z-index: -1;
+}
