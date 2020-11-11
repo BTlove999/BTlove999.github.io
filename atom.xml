@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="/"/>
-  <updated>2020-11-09T13:53:09.156Z</updated>
+  <updated>2020-11-11T03:14:09.867Z</updated>
   <id>/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>两周年快乐</title>
+    <link href="/2020/11/11/%E4%B8%A4%E5%91%A8%E5%B9%B4%E5%BF%AB%E4%B9%90/"/>
+    <id>/2020/11/11/两周年快乐/</id>
+    <published>2020-11-11T03:09:53.000Z</published>
+    <updated>2020-11-11T03:14:09.867Z</updated>
+    
+    <summary type="html">
+    
+      小可爱两周年快乐哦
+    
+    </summary>
+    
+      <category term="我们" scheme="/categories/%E6%88%91%E4%BB%AC/"/>
+    
+    
+      <category term="两周年" scheme="/tags/%E4%B8%A4%E5%91%A8%E5%B9%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>我们在一起啦</title>
